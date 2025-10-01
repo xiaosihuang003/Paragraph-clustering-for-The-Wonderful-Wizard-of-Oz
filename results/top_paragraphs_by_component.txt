@@ -1,0 +1,30 @@
+Component 00  Paragraph#540  p=1.0000
+The next morning the soldier with the green whiskers came to the Scarecrow and said:
+
+Component 01  Paragraph#1023  p=1.0000
+“I suppose not,” said Dorothy.
+
+Component 02  Paragraph#280  p=1.0000
+“Or send me back to Kansas,” said Dorothy.
+
+Component 03  Paragraph#388  p=1.0000
+Chapter IX The Queen of the Field Mice
+
+Component 04  Paragraph#999  p=0.9984
+“Go on,” exclaimed Dorothy.
+
+Component 05  Paragraph#515  p=1.0000
+“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”
+
+Component 06  Paragraph#49  p=1.0000
+“Who are the Munchkins?” inquired Dorothy.
+
+Component 07  Paragraph#162  p=1.0000
+The Scarecrow looked at her reproachfully, and answered:
+
+Component 08  Paragraph#519  p=1.0000
+“Where did you get the silver shoes?”
+
+Component 09  Paragraph#277  p=1.0000
+“Do you think Oz could give me courage?” asked the Cowardly Lion.
+
