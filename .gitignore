@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Virtual env
+.venv/
+venv/
+# OS
+.DS_Store
